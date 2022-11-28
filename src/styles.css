@@ -61,5 +61,7 @@ ul{
 }
 li{
     margin: 0;
-
+}
+.link-to-git{
+    margin-left: 85px;
 }
